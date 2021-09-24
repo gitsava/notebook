@@ -1,4 +1,4 @@
-## Notes Pembelajaran Python
+## Notes Pembelajaran Python dari Digital Talent Scholarship
 
 ## Persiapan
 #### 1. Saya menggunakan Anaconda
