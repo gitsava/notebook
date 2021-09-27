@@ -1,4 +1,4 @@
-name: note
+name: py-dts
 channels:
   - conda-forge
 dependencies:

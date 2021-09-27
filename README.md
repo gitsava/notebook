@@ -6,7 +6,7 @@
 Di direktori repo utama
 
     conda env create -f binder/environment.yml
-    conda activate note
+    conda activate py-dts
     pip install jupyter_contrib_nbextensions
 
     jupyter labextension install @jupyter-widgets/jupyterlab-manager
