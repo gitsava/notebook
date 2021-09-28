@@ -1,0 +1,10 @@
+name: py-dts
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab>=2.0.0,<3
+  - notebook
+  - pip
+  - pip:
+    - jupyter_contrib_nbextensions
